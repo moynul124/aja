@@ -15,14 +15,44 @@ end = '\033[0m'
 line=yellow+"======================================================================================================================"
 space=" "
 logo=red+str("""
-     8888888b.   .d88888b.   .d8888b.       Y88b   d88P 
-     888   Y88b d88P" "Y88b d88P  Y88b       Y88b d88P  
-     888    888 888     888 888    888        Y88o88P   
-     888   d88P 888     888 888        888888  Y888P    
-     8888888P"  888     888 888        888888  d888b    
-     888 T88b   888     888 888    888        d88888b   
-     888  T88b  Y88b. .d88P Y88b  d88P       d88P Y88b  
-     888   T88b  "Y88888P"   "Y8888P"       d88P   Y88b""")
+TTTTTTTTTTTTTTTTTTTTTTTHHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB   
+
+T:::::::::::::::::::::TH:::::::H     H:::::::H   CCC::::::::::::CB::::::::::::::::B  
+
+T:::::::::::::::::::::TH:::::::H     H:::::::H CC:::::::::::::::CB::::::BBBBBB:::::B 
+
+T:::::TT:::::::TT:::::THH::::::H     H::::::HHC:::::CCCCCCCC::::CBB:::::B     B:::::B
+
+TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:::::B
+
+        T:::::T          H:::::H     H:::::HC:::::C                B::::B     B:::::B
+
+        T:::::T          H::::::HHHHH::::::HC:::::C                B::::BBBBBB:::::B 
+
+        T:::::T          H:::::::::::::::::HC:::::C                B:::::::::::::BB  
+
+        T:::::T          H:::::::::::::::::HC:::::C                B::::BBBBBB:::::B 
+
+        T:::::T          H::::::HHHHH::::::HC:::::C                B::::B     B:::::B
+
+        T:::::T          H:::::H     H:::::HC:::::C                B::::B     B:::::B
+
+        T:::::T          H:::::H     H:::::H C:::::C       CCCCCC  B::::B     B:::::B
+
+      TT:::::::TT      HH::::::H     H::::::HHC:::::CCCCCCCC::::CBB:::::BBBBBB::::::B
+
+      T:::::::::T      H:::::::H     H:::::::H CC:::::::::::::::CB:::::::::::::::::B 
+
+      T:::::::::T      H:::::::H     H:::::::H   CCC::::::::::::CB::::::::::::::::B  
+
+      TTTTTTTTTTT      HHHHHHHHH     HHHHHHHHH      CCCCCCCCCCCCCBBBBBBBBBBBBBBBBB
+    
+  
+
+   
+
+            
+     """)
 
 
 
